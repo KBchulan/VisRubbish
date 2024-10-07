@@ -1,3 +1,5 @@
+path: /home/whx/文档/code/github/rub_cssfc/data
+
 train: train/images
 val: valid/images
 test: test/images
